@@ -19,4 +19,12 @@ La aplicación desarrollada muestra un botón personalizado y un carrusel de im�
 - **Carrusel de Imágenes**: La aplicación presenta un carrusel de imágenes que permite al usuario desplazarse a través de una serie de imágenes. Las imágenes se cargan desde una lista de rutas de archivo predefinidas.
 
 ## Resultado Final
+![1](https://github.com/Lesly-hub/DMI_Tarea05_180247/assets/74167109/0a6d25ff-e9ae-49eb-9673-05cde5e3b4d7)
+![2](https://github.com/Lesly-hub/DMI_Tarea05_180247/assets/74167109/04ea3adf-7935-43be-8263-fb809142a4e7)
+![3](https://github.com/Lesly-hub/DMI_Tarea05_180247/assets/74167109/52137ca7-01b4-41a9-976a-69bef90bd259)
+
+
+
+
+
 
