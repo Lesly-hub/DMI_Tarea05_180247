@@ -1,4 +1,4 @@
-// Creado por: Uriel Maldonado Cortez
+// Creado por: Lesly Yareth Hernandez Bonilla
 // Asignatura: Desarrollo Movil Integral
 //Grado: 10   Grupo: "A"
 // Docente: MTI. Marco Antonio Ramirez Hernandez
