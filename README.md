@@ -17,3 +17,5 @@ La aplicación desarrollada muestra un botón personalizado y un carrusel de im�
 
 - **Carrusel de Imágenes**: La aplicación presenta un carrusel de imágenes que permite al usuario desplazarse a través de una serie de imágenes. Las imágenes se cargan desde una lista de rutas de archivo predefinidas.
 
+## Resultado Final
+
