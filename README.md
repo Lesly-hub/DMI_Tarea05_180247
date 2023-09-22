@@ -7,7 +7,8 @@
 - **Grado:** 10
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
-# Botón Personalizado y Carrusel de Imágenes en Flutter
+  
+# BDescripcion General de la Practica
 
 La aplicación desarrollada muestra un botón personalizado y un carrusel de imágenes. El botón personalizado cambia su texto cada vez que se presiona, y el carrusel de imágenes permite al usuario desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.
 
