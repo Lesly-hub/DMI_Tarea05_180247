@@ -1,4 +1,4 @@
-# Tarea5_200931 - Widget de Botón Personalizado Y Carrusel de imagenes
+# Tarea05_200931 - Cambio de Imagenes
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
